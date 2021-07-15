@@ -1,0 +1,21 @@
+.main__container, .main__container--target2, .main__container--target3 {
+    width: 100%;
+}
+
+.main__container--target2 {
+    border-radius: 0 0 0 0;
+    text-align: center;
+}
+
+.icon-suv {
+    margin-left: calc(50% - 27px);
+}
+
+.main__container--target3 {
+    border-radius: 0  0 10px 10px;
+    text-align: center;
+}
+
+.icon-lux {
+    margin-left: calc(50% - 27px);
+}

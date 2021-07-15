@@ -1,0 +1,27 @@
+.main__container {
+    max-width: none;
+    width: 100%;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+}
+
+.button a {
+    margin-left: calc(50% - 76px);
+}
+
+.icon-sav {
+    margin-left: calc(50% - 27px)
+}
+
+.main__container--target2, .main__container--target3 {
+    max-width: none;
+    width: 50%;
+}
+
+.main__container--target2 {
+    border-radius: 0 0 0 10px;
+}
+
+.main__container--target3 {
+    border-radius: 0 0 10px 0;
+}
